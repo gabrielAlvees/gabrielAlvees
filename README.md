@@ -1,4 +1,3 @@
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/gabrielAlvees/a423f22c278a525719a945e2a2ea1e4c/raw/e870f48ab44bd9bcac023d20daa4c9f4c7b08d33/githubcard.svg"/>
 
 <div>
   <h1 align="left">Olá, eu sou Gabriel</h1>

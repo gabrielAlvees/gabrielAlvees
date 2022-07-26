@@ -7,11 +7,7 @@
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=gabrielAlvees&color=yellow" alt="Profile views" /> </p>
 </div>
 
-- 🔥 Estudante na Fatec Mogi Das Cruzes, com foco em Desenvolvimento Web 
-
-- 🔭 No momento estou estudando sobre Node.JS, você pode acompanhar minha evolução <a href="https://github.com/gabrielAlvees">aqui!<a/> 😁
-
-- 💬 Pergunte-me sobre: **JavaScript, HTML, CSS, Node.JS e React**
+- 🔥 Estudante na Fatec Mogi Das Cruzes, com foco em Front-End
 
 <br>
   

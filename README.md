@@ -1,37 +1,23 @@
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=gabrielAlvees&bg_color=0d1117&color=c9d1d9&line=c9d1d9&point=494949&area=false&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<div>
-  <h1 align="left">Olá, eu sou Gabriel</h1>
+<div align="center">
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=gabrielAlvees&show_icons=true&icon_color=c9d1d9&text_color=c9d1d9&theme=dark"
+      media="(prefers-color-scheme: dark)"
+    />
+     <source
+      srcset="https://github-readme-stats.vercel.app/api?username=gabrielAlvees&show_icons=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=gabrielAlvees&show_icons=true" />
+  </picture>
 </div>
 
-<div>
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=gabrielAlvees&color=yellow" alt="Profile views" /> </p>
-</div>
-
-- 🔥 Estudante na Fatec Mogi Das Cruzes, com foco em Front-End
-
-<br>
-  
-## 🛠 &nbsp;Tech Stack
-<div align="center" valign="top"><br>
-  <img align="center" alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img align="center" alt="Js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
-  <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img align="center" alt="linux" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
-  <img align="center" alt="linux" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
-</div>
-  
-<br>
-<br>
-<br>
 <br>
 
-## ⚙️ &nbsp;GitHub Analytics
-<div align="center"><br>
-  <a href="https://github.com/gabrielAlvees"><a/>
-  <img height="160em" width="50%" src="https://github-readme-stats.vercel.app/api?username=gabrielAlvees&show_icons=true&theme=onedark&include_all_commits=true&count_private=true">
-  <img height="160em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielAlvees&layout=compact&langs_count=7&theme=onedark">
+<div align="center" margin="30">
+  <img width="30%" height="200px" src="https://media.tenor.com/30DPIoReBOIAAAAC/bardin-vermintide.gif" />
 </div>
+
  

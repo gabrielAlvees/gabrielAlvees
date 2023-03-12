@@ -8,7 +8,6 @@
 
 <div>
   <p>▪️About me</p>
-    <p>▫️ Currently working as Front-End on Mestres da Web.</p>
     <p>▫️ Currently working with React, Typescript and Styled Componentes.</p>
     <p>▫️ Systems analysis and development student at Fatec Mogi das Cruzes</p>
 </div>

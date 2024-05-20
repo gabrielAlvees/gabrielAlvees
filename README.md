@@ -18,11 +18,9 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gabrielAlvees&show_icons=true&icon_color=c9d1d9&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielAlvees&layout=compact&langs_count=7&theme=dark"/>
   
+##
 
 <div align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/TypeScript-20232A?style=for-the-badge&logo=typescript&logoColor=#307CBF" />
-  <img src="https://img.shields.io/badge/Java-20232A?style=for-the-badge&logo=openjdk&logoColor=#F2951C" />
-  <img src="https://img.shields.io/badge/Kotlin-20232A?&style=for-the-badge&logo=kotlin&logoColor=#D929BB" />
+    <img htight="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
 </div>
 

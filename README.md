@@ -20,7 +20,7 @@
   
 
 <div align="center">
-  <img https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img height="30em" width="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   <img height="30em" width="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img height="30em" width="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />

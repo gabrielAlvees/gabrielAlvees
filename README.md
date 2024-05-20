@@ -7,8 +7,8 @@
 
 <div>
   <p>▪️About me</p>
-    <p>▫️ Currently working with React, Typescript and Styled Componentes.</p>
-    <p>▫️ Systems analysis and development student at Fatec Mogi das Cruzes</p>
+  <p>▫️ Currently working with Java, TypeScript, Spring Boot and Kotlin.</p>
+  <p>▫️ Graduated in Systems Analysis and Development at Fatec de Mogi das Cruzes</p>
 </div>
 
 ##

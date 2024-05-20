@@ -18,10 +18,9 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gabrielAlvees&show_icons=true&icon_color=c9d1d9&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielAlvees&layout=compact&langs_count=7&theme=dark"/>
   
-[![GitHub Streak](https://streak-stats.demolab.com?user=gabrielAlvees&theme=dark&border_radius=4.4)](https://git.io/streak-stats)
-</div>
 
 <div align="center">
+  <img https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB />
   <img height="30em" width="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   <img height="30em" width="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img height="30em" width="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />

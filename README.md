@@ -20,6 +20,6 @@
 ##
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=kotlin,java,spring,react,ts,flutter&theme=#00000" />
+    <img src="https://skillicons.dev/icons?i=kotlin,java,spring,react,ts,flutter&theme=light" />
 </div>
 

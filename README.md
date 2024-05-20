@@ -20,6 +20,6 @@
 ##
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=kotlin,java,spring,react,ts,flutter&theme=light" />
+    <img src="https://skillicons.dev/icons?i=idea,ts,docker,docker,java,spring,kotlin,react,nodejs,dotnet,postgres" />
 </div>
 

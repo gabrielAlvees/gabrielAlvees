@@ -29,7 +29,3 @@
   <img height="30em" width="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 </div>
 
-##
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=gabrielAlvees&bg_color=0d1117&color=c9d1d9&line=c9d1d9&point=494949&area=false&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-

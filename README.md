@@ -10,13 +10,17 @@
     <p>▫️ Currently working with React, Typescript and Styled Componentes.</p>
     <p>▫️ Systems analysis and development student at Fatec Mogi das Cruzes</p>
 </div>
+
 ##
+
 <div align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gabrielAlvees&show_icons=true&icon_color=c9d1d9&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielAlvees&layout=compact&langs_count=7&theme=dark"/>
+    
 ##
+
 <div align="center">
-    <img height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-    <img htight="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
+    <img height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+    <img htight="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
 </div>
 
